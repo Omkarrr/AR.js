@@ -1,0 +1,16 @@
+{
+  "name": "webar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "aframe": "^1.4.2",
+    "aframe-ar": "^0.2.1-a"
+  }
+}
